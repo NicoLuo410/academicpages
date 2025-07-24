@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-A beginner in Computer Vision. My interest focuses on 3D reconstruction.
+A beginner in Computer Vision. My research interest focuses on 3D reconstruction.
